@@ -7,6 +7,15 @@ print(result)
 print('ini adalah contoh dari main') 
 
 
+print('oke kita kerja 2 kali')
+
+#indonesia merupakan negara kepulauan
 #ini merupakan cas terbaru
+
+def hitung (a,d):
+    return a%d
+
+result = hitung(10,4)
+print(result)
     
     
